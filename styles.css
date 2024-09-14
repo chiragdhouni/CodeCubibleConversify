@@ -597,6 +597,11 @@ input[type="file"] {
   border-color: red;
 }
 
+#step3{
+  font-size: 1.8vw;
+  font-weight: normal;
+  margin-top: 1rem;
+}
 footer {
   text-align: center;
   margin-top: 40px;
@@ -658,5 +663,6 @@ footer {
   flex-direction: column;
   align-items: center;
 }
+
 }
  
